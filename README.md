@@ -1,2 +1,2 @@
 # Windows Terminal
-My Windows Terminal personal settings 
+My Windows Terminal personal settings backup 
