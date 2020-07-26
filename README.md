@@ -1,2 +1,2 @@
-# Windows_Terminal_personal_settings
+# Windows Terminal
 My Windows Terminal personal settings 
